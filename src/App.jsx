@@ -224,10 +224,12 @@ const App = () => {
                 </div>
               </div>
               <div className="px-4">
-                <input
+                <button
                   type="submit"
                   className="text-White px-2 py-3 rounded-lg w-full bg-VeryDarkViolet hover:bg-VeryDarkViolet/80 transition "
-                />
+                >
+                  Submit
+                </button>
               </div>
             </form>
           </div>
